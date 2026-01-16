@@ -38,7 +38,7 @@ The control system bypasses traditional radio signals in favor of a robust local
 - [x] **EMF Mitigation:** Solved unpredictable servo twitching by shielding the motor housing and reducing steering servo commands.
 - [x] **Drivetrain Stress Test:** Verified motor torque and corrected gear clearance issues in the reduction stage.
 - [x] **WiFi Stability:** Confirmed smooth joystick data transmission and low-latency response.
-- [ ] **Servo Bugginess:** Tested and discovered the root was due to poor logic and a lack of power to the Arduino.
+- [x] **Servo Bugginess:** Tested and discovered the root was due to poor logic and a lack of power to the Arduino.
 - [ ] **Button Bugginess:** Buttons are not always detected perfectly; however, only the debounce time needs to be tuned.
 
 ## Reflection
